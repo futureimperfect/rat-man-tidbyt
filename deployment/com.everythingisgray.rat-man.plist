@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Label</key>
+	<string>com.everythingisgray.rat-man</string>
+	<key>ProgramArguments</key>
+	<array>
+		<string>/Users/jbarclay/src/rat-man-tidbyt/run_rat_man.sh</string>
+	</array>
+	<key>RunAtLoad</key>
+	<true/>
+	<key>StartInterval</key>
+	<integer>90</integer>
+	<key>WorkingDirectory</key>
+	<string>/Users/jbarclay/src/rat-man-tidbyt</string>
+</dict>
+</plist>
